@@ -35,6 +35,8 @@ Run the launch file. This will open the 4-wheel-robot model in gazebo
 ros2 launch mobile_robot gazebo_model.launch.py
 
 ```
+![](https://github.com/SaadRana17/4-Wheel-Differential-Drive-Robot/blob/main/1_ws.gif)
+![](https://github.com/SaadRana17/4-Wheel-Differential-Drive-Robot/blob/main/2_ws.gif)
 
 Open new terminal and source the environment variable again
 ```
@@ -48,5 +50,6 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 
 ```
 
-
+![](https://github.com/SaadRana17/4-Wheel-Differential-Drive-Robot/blob/main/3_ws.gif)
+![](https://github.com/SaadRana17/4-Wheel-Differential-Drive-Robot/blob/main/4_ws.gif)
 
