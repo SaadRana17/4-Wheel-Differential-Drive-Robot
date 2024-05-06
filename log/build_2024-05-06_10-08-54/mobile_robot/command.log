@@ -1,0 +1,4 @@
+Invoking command in '/home/venom/ws_mobile/build/mobile_robot': CMAKE_PREFIX_PATH=/opt/ros/foxy /home/venom/.local/bin/cmake --build /home/venom/ws_mobile/build/mobile_robot -- -j24 -l24
+Invoked command in '/home/venom/ws_mobile/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /home/venom/.local/bin/cmake --build /home/venom/ws_mobile/build/mobile_robot -- -j24 -l24
+Invoking command in '/home/venom/ws_mobile/build/mobile_robot': CMAKE_PREFIX_PATH=/opt/ros/foxy /home/venom/.local/bin/cmake --install /home/venom/ws_mobile/build/mobile_robot
+Invoked command in '/home/venom/ws_mobile/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /home/venom/.local/bin/cmake --install /home/venom/ws_mobile/build/mobile_robot

@@ -1,0 +1,26 @@
+[0.006s] Invoking command in '/home/venom/ws_mobile/build/mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /home/venom/.local/bin/cmake --build /home/venom/ws_mobile/build/mobile_robot -- -j24 -l24
+[0.024s] Invoked command in '/home/venom/ws_mobile/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /home/venom/.local/bin/cmake --build /home/venom/ws_mobile/build/mobile_robot -- -j24 -l24
+[0.066s] Invoking command in '/home/venom/ws_mobile/build/mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /home/venom/.local/bin/cmake --install /home/venom/ws_mobile/build/mobile_robot
+[0.080s] -- Install configuration: ""
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/launch
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/launch/check.launch.py
+[0.080s] -- Installing: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/launch/gazebo_model.launch.py
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/model
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/model/robot.gazebo
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/model/robot.xacro
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/ament_index/resource_index/package_run_dependencies/mobile_robot
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/ament_index/resource_index/parent_prefix_path/mobile_robot
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.sh
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.dsv
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/environment/path.sh
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/environment/path.dsv
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/local_setup.bash
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/local_setup.sh
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/local_setup.zsh
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/local_setup.dsv
+[0.080s] -- Installing: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/package.dsv
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/ament_index/resource_index/packages/mobile_robot
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig.cmake
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig-version.cmake
+[0.080s] -- Up-to-date: /home/venom/ws_mobile/install/mobile_robot/share/mobile_robot/package.xml
+[0.083s] Invoked command in '/home/venom/ws_mobile/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /home/venom/.local/bin/cmake --install /home/venom/ws_mobile/build/mobile_robot
