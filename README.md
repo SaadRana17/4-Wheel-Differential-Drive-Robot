@@ -1,4 +1,4 @@
-# 4 Wheel Differential Drive Robot in ROS2 foxy. All files including Xacro, Gazebo & Launch file is in repo.
+# 4 Wheel Differential Drive Robot in ROS2 foxy. All files including Xacro, Gazebo & Launch are in repo.
 
 Create ws_mobile directory
 ```
