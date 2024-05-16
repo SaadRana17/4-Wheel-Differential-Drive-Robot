@@ -2,12 +2,18 @@
 
 Create ws_mobile directory
 ```
-mdkir ws_mobile
+mkdir ws_mobile
 ```
 
 Clone the repository
 ```
 git clone https://github.com/SaadRana17/4-Wheel-Differential-Drive-Robot.git
+
+```
+
+Going In folder
+```
+cd 4-Wheel-Differential-Drive-Robot
 
 ```
 
