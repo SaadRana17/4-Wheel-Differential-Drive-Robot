@@ -32,7 +32,7 @@ colcon build
 
 Source the workspace
 ```
-source ~/ws_mobile/install/setup.bash
+source ~/Desktop/ws_mobile/install/setup.bash
 
 ```
 
